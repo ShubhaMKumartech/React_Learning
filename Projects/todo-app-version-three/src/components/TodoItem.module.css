@@ -1,0 +1,28 @@
+.main{
+  /* border: 2px solid black; */
+  display: flex;
+  gap: 50px;
+  padding: 5px;
+  margin: auto;
+  margin-top: 20px;
+  justify-content: center;
+
+  
+}
+
+.button{
+  /* border: 2px solid darkblue; */
+  border-radius: 5px;
+  background-color: rgb(233, 7, 7);
+  color: white;
+}
+
+.tododate{
+  /* border: 2px solid rgb(10, 221, 63); */
+  font-weight: 700;
+}
+
+.todoitem{
+  font-weight: 700;
+  font-size: 20px;
+}
